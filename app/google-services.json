@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1471241580",
+    "project_id": "epsd-d181b",
+    "storage_bucket": "epsd-d181b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1471241580:android:66f663d4975d2e4299a749",
+        "android_client_info": {
+          "package_name": "estomp.esporte.lukalinat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1471241580-5g1av6s8se4jc29fhtpsr4535knngd2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChGBTJuaa-JCzaPNdsZhGq1l8iFsmTrFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1471241580-5g1av6s8se4jc29fhtpsr4535knngd2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

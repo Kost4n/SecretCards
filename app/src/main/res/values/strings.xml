@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">E</string>
+    <string name="title_open">Open cards</string>
+    <string name="title_chest">Openning cards</string>
+    <string name="tap_to_open"> taps to open.</string>
+    <string name="text_need_internet">Подключитесь к интернету и нажмите кнопку</string>
+    <string name="text_have_internet">Есть интернет</string>
+    <string name="restart_internet">Перезапустить</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_chest">
+
+    <fragment
+        android:id="@+id/navigation_chest"
+        android:name="estomp.esporte.lukalinat.ui.chest.ChestFragment"
+        android:label="@string/title_chest"
+        tools:layout="@layout/fragment_chest"/>
+
+    <fragment
+        android:id="@+id/navigation_open"
+        android:name="estomp.esporte.lukalinat.ui.open.OpenFragment"
+        android:label="@string/title_open"
+        tools:layout="@layout/fragment_open"/>
+
+</navigation>
